@@ -1,0 +1,65 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  I am using windows so I used FC to compare two versions of a file. Once I
+applied the FC command I was able to see the difference in two versions of a
+file. Unlike doing manually, Fc just listed the differences between the two
+files in saving me time to go through the whole codes. It also provided me with
+two versions which was easier for me to compare. Two version side by side also
+gave me a snap shot of what I was looking at.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  Having entire history of the file gives the programmer to look back at the
+  entire code building steps. The programmer can go through the developmental
+  phase and  comb through the goods and bads of the  entire process. The
+  programmer can  reutilize the good aspects of the coding process in the future
+  projects. At the same time, the programmer can eliminate  the bad aspects to
+  refine the codes to make more efficient. The history also provides the
+  programmer necessary documents to see the progress made through time.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+                                  Pros
+Gives you the flexibility to commit or not.
+The programmer has the ultimate power.
+The programmer can use the judgement for the whole process.
+
+
+                                  Cons
+The programmer needs to start the commit. if not it will not work.
+One more things  added to the programmer's mandatory  to do lists.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  I think it varies with the type of files intended to be used by different
+  version control systems. Git is a more advanced VCS which allows the user to
+  save multiple files in one commit as these files could be comparable to each
+  other. Where as Google Docs primary focus is not to compare two files but to
+  make changes to the file. So they treat each file separately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log command shows the list of all the commits made to the files
+starting from recent to the original. It also provides the time and date when
+the commit was made. So you are able to track down the changes made to the
+files.
+  Git diff provides the comparable information between the  two commits. You
+ can use the information to find out what was added or deleted in between the
+commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I know that I'll be able to fix the issue easily as its easy to track down
+    what broke down using version control.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I still have to figure it out. But most likely I'll use it for my future
+    projects.
