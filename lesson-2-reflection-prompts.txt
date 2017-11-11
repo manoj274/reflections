@@ -1,10 +1,10 @@
 What happens when you initialize a repository? Why do you need to do it?
- A hiden .git file is opened. we need this to make necessary changes using
+ A hidden .git file is opened. we need this to make necessary changes using
  commits.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers
-sataging area is the intermediatary area where the user can make commits decision.
+staging area is the intermediatary area where the user can make commits decision.
 it is where the user decide what to commit or not.
 
 How can you use the staging area to make sure you have one commit per logical
@@ -23,6 +23,8 @@ shows where the branches separate, giving us the perfect picture.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+ We are able to track the commits made in two different branches without loosing
+ them. diagram shows the pathway of the comments made in respeact to each
+ branch.
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
