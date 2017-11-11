@@ -9,11 +9,17 @@ it is where the user decide what to commit or not.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+we can store modified files  in the staging area and select the changes which
+makes logical sense to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
- 
+When you are trying to experiment something or you do not want to make changes
+to the original. It will keep the original not changed.
+
 How do the diagrams help you visualize the branch structure?
+Diagrams shows the connection between the parent and the branches. it also
+shows where the branches separate, giving us the perfect picture.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
